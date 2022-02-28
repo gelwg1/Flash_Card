@@ -1,0 +1,63 @@
+
+body {
+  padding: 1%;
+  background-color: rgb(209, 202, 202) !important;
+  color: rgb(175, 169, 169) !important;
+  font-family: 'Comfortaa', cursive !important;
+}
+
+#navbarColor03 {
+  background-color: rgb(250, 248, 248) !important;
+  color: rgb(148, 147, 147);
+}
+
+.card {
+  border: solid 1rem rgb(233, 229, 229);
+  border-radius: 10%;
+}
+
+.card-body {
+  background-color: rgb(250, 248, 248);
+  font-family: "Comic Sans", "Comic Sans MS", cursive, sans-serif !important;
+  display: inline-block;
+}
+
+label,
+button {
+  font-family: 'Comfortaa', cursive !important;
+  font-weight: bold;
+}
+
+.card-header {
+  font-size: 1.8rem;
+}
+
+.fa-edit,
+.fa-trash-alt {
+  float: right;
+  color: rgb(175, 169, 169);
+}
+
+#brand {
+  color: rgb(175, 169, 169) !important;
+  font-size: 1.7rem;
+  font-weight: bold;
+}
+
+.showAnswer {
+  cursor: pointer;
+  font-family: 'Comfortaa', cursive;
+  font-size: small;
+}
+
+.progress {
+  background-color: rgb(209, 202, 202) !important;
+}
+
+.progress-bar {
+  background-color: rgb(175, 169, 169) !important;
+}
+
+#create {
+  text-decoration: none;
+}
